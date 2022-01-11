@@ -1,0 +1,127 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<title>mahom@home  &bull; the photoblog</title>
+		<link rel="service.feed" type="application/x.atom+xml" title="mahom@home - the photoblog - ATOM Feed" href="http://www.mahomathome.de/photoblog/index.php?x=atom" />
+		<link rel="alternate" type="application/rss+xml" title="mahom@home - the photoblog - RSS Feed" href="http://www.mahomathome.de/photoblog/index.php?x=rss" />
+
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+		<meta http-equiv="content-type" name="keywords" content="mahom@home , the photoblog, Photography, PhotoBlog" />
+		<meta http-equiv="content-type" name="description" content="mahom@home  &bull; the photoblog" />
+
+		<link rel="stylesheet" type="text/css" href="http://www.mahomathome.de/photoblog/templates/pixelfy2.0/styles/pixelfy.css" />
+		<script type="text/javascript" src="http://www.mahomathome.de/photoblog/templates/pixelfy2.0/js/jquery.js"></script>
+		<script type="text/javascript" src="http://www.mahomathome.de/photoblog/templates/pixelfy2.0/js/pixelfy.js"></script>
+
+	</head>
+
+	<body>
+		<div id="container">
+			<div id="menu">
+				<a title="mahom@home  - the photoblog" id="logo" href="http://www.mahomathome.de/photoblog/"><img id="logo" src="http://www.mahomathome.de/photoblog/templates/pixelfy2.0/images/logo.gif" alt="mahom@home  - the photoblog" /></a>
+				<a class="item" href="http://www.mahomathome.de/photoblog/index.php?x=rss">rss</a>
+				<a class="item" href="http://www.mahomathome.de/photoblog/index.php?x=about">about</a>
+				<a class="item" href="http://twitter.com/mahomathome" target="_blank">twitter</a>
+				<a class="item" href="http://www.mahomathome.de/blog" target="_blank">blog</a>
+				<a class="item" href="./index.php?x=browse">browse</a>
+				<a class="item" href="./index.php?x=browse"><HELLO_WORLD></a>
+			</div>
+
+
+			<div id="display">
+				<div id="submenu">
+					<a class="controls" href="http://www.mahomathome.de/photoblog/index.php?showimage=4">previous</a> &bull;
+					<a class="controls" href="http://www.mahomathome.de/photoblog/index.php?showimage=6">next</a> &bull;
+					<a id="view_exif" class="controls" href="#exif">exif</a> &bull;
+					<a id="view_comments" class="controls" href="#commentWrap">comments (0)</a>
+				</div>
+
+				<div id="imageWrap">
+					<img id="image" src="images/20080419-img_3975.jpg" alt="fast car" title="fast car" width="1000px" height="667px" class="photo" />
+				</div>
+				<h1>fast car</h1>
+				<div style="margin-left:2em;font-size:80%;"><p>Ein Modell eines GT 500. Leider noch nie in echt gesehen.</p>
+</div>
+				
+
+				<div id="exif">
+            		<div><strong>Camera:</strong> <strong>Canon EOS 400D DIGITAL</strong> <i>(Canon)</i></div>
+					<div><strong>Focal Length:</strong> 50 mm</div>
+					<div><strong>Exposure:</strong> 1/160 sec</div>
+					<div><strong>Aperture:</strong> f 1.8</div>
+					<div><strong>ISO:</strong> 200</div>
+				</div>
+
+				<div id="commentWrap">
+					<form method="post" action="index.php?x=save_comment" accept-charset="UTF-8">
+						<div>
+							
+							<textarea name="message" rows="4" cols="40" onfocus="this.value='';">Type your comment here.</textarea>
+							<br />
+							<br />
+
+							<label for="name">Name</label><br />
+							<input type="text" name="name" class="input" value="" id="name" size="40"/>
+							<br />
+							<br />
+
+							<label for="url">Website URL, if any</label><br />
+							<input type="text" name="url" class="input" value="" id="url" size="40"/>
+							<br />
+							<br />
+
+							<label for="email">Email (not visible to others)</label><br />
+							<input class="input" type="text" name="email" value="" id="email" size="40"/>
+							<br />
+							<br />
+
+							<label for="saveinfo">Save User Info</label> <br />
+							<input name="vcookie" type="checkbox" id="saveinfo" value="set" checked="checked" />
+							<br />
+							<br />
+							
+							<div >
+<style>
+div.div_share_twitter {
+	padding: 5px 5px 5px 0;
+	float: left;
+}
+a.share_twitter {
+	background: url('http://a1.twimg.com/a/1250809294/images/favicon.ico') no-repeat 0 0;
+	padding: 2px 0 0 20px;
+	margin: 5px 5px 5px 0;
+}
+</style><div class="div_share_twitter"><a class="share_twitter" href="http://twitter.com/home?status=Check out http://tinyurl.com/l7vdgj" title="Share on Twitter" target="_blank">Share on Twitter</a></div>, 
+<style>
+div.div_share_facebook {
+	padding: 5px 5px 5px 0;
+	float: left;
+}
+a.share_facebook {
+	background: url('http://static.ak.fbcdn.net/rsrc.php/zAY6U/hash/cue6n9tz.ico') no-repeat 0 0;
+	padding: 2px 0 0 20px;
+	margin: 5px 5px 5px 0;
+}
+</style><link rel="image_src" type="image/png" href="thumbnails/thumb_20080419-img_3975.jpg" /><div class="div_share_facebook"><a class="share_facebook" href="http://www.facebook.com/sharer.php?u=http://www.mahomathome.de/photoblog/index.php?showimage=5&t=fast car" title="Share on Facebook" target="_blank">Share on Facebook</a></div></div>
+                            <br />
+                            <br />
+							<input type="submit" value="Add" class="comment-button"/>
+							<input type="hidden" name="parent_id" value="5" />
+							<input type="hidden" name="parent_name" value="20080419-img_3975.jpg" />
+							<input type="hidden" name="withthankyou" value="no" />
+						</div>
+					</form>
+					<div class="comment"><ul><li>Noch keine Kommentare.</li></ul></div>
+					<div class="devider"></div>
+				</div>
+			</div>
+
+			<div class="devider"></div>
+			<div id="footer">&copy; Marcel Sibilitz &bull; Feel free to <a href="http://www.mahomathome.de/photoblog/index.php?x=about">vote</a> for this photoblog. &bull; <a title="Photo Blog Theme" href="http://www.pixelfy.com/">Theme by Pixelfy</a></div>
+		</div>
+	</body>
+</html>

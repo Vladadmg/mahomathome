@@ -1,0 +1,52 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<title>mahom@home  &bull; the photoblog</title>
+		<link rel="service.feed" type="application/x.atom+xml" title="mahom@home - the photoblog - ATOM Feed" href="http://www.mahomathome.de/photoblog/index.php?x=atom" />
+		<link rel="alternate" type="application/rss+xml" title="mahom@home - the photoblog - RSS Feed" href="http://www.mahomathome.de/photoblog/index.php?x=rss" />
+
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+		<meta http-equiv="content-type" name="keywords" content="mahom@home , the photoblog, Photography, PhotoBlog" />
+		<meta http-equiv="content-type" name="description" content="mahom@home  &bull; the photoblog" />
+
+		<link rel="stylesheet" type="text/css" href="http://www.mahomathome.de/photoblog/templates/pixelfy2.0/styles/pixelfy.css" />
+		<script type="text/javascript" src="http://www.mahomathome.de/photoblog/templates/pixelfy2.0/js/jquery.js"></script>
+		<script type="text/javascript" src="http://www.mahomathome.de/photoblog/templates/pixelfy2.0/js/pixelfy.js"></script>
+
+	</head>
+
+	<body>
+		<div id="container">
+			<div id="menu">
+				<a title="mahom@home  - the photoblog" id="logo" href="http://www.mahomathome.de/photoblog/"><img id="logo" src="http://www.mahomathome.de/photoblog/templates/pixelfy2.0/images/logo.gif" alt="mahom@home  - the photoblog" /></a>
+				<a class="item" href="http://www.mahomathome.de/photoblog/index.php?x=rss">rss</a>
+				<a class="item" href="http://www.mahomathome.de/photoblog/index.php?x=about">about</a>
+				<a class="item" href="http://twitter.com/mahomathome" target="_blank">twitter</a>
+				<a class="item" href="http://www.mahomathome.de/blog" target="_blank">blog</a>
+				<a class="item" href="./index.php?x=browse">browse</a>
+				<a class="item" href="./index.php?x=browse"><HELLO_WORLD></a>
+			</div>
+
+
+			<div id="display">
+				<div id="thumbnailwrap">
+					<a href="./index.php?showimage=46"><img src="thumbnails/thumb_20090724_mexiko urlaub 2009_img_9986-2.jpg" alt="boat" title="boat" width="100" height="75" class="thumbnails" /></a><a href="./index.php?showimage=15"><img src="thumbnails/thumb_20080719-img_6739.jpg" alt="Springbrunnen" title="Springbrunnen" width="100" height="75" class="thumbnails" /></a><a href="./index.php?showimage=13"><img src="thumbnails/thumb_20060131-20060131-tropfen-2.jpg" alt="Wassertropfen" title="Wassertropfen" width="100" height="75" class="thumbnails" /></a>
+				</div>
+				<div id="details">
+					<h2>Categories</h2>
+					 <a href='index.php?x=browse'> alle (54) </a><br /><a href='index.php?x=browse&amp;category=9'>farblos (21)</a><br /><a href='index.php?x=browse&amp;category=12'>gewachsen (3)</a><br /><a href='index.php?x=browse&amp;category=8'>kalt (3)</a><br /><a href='index.php?x=browse&amp;category=4'>Kinder (1)</a><br /><a href='index.php?x=browse&amp;category=6'>Menschen (14)</a><br /><a href='index.php?x=browse&amp;category=7'>nah (20)</a><br /><a href='index.php?x=browse&amp;category=14'>nass (3)</a><br /><a href='index.php?x=browse&amp;category=5'>Natur (18)</a><br /><a href='index.php?x=browse&amp;category=11'>schnell (1)</a><br /><a href='index.php?x=browse&amp;category=13'>surreal (7)</a><br /><a href='index.php?x=browse&amp;category=15'>Tiere (1)</a><br /><a href='index.php?x=browse&amp;category=10'>weit weg (1)</a><br />
+					<h2>Tags</h2>
+					<div id="tag_cloud"><a href="index.php?x=browse&amp;tag=2009" class="tags10">2009&nbsp;(1)</a> <a href="index.php?x=browse&amp;tag=alleine" class="tags10">alleine&nbsp;(1)</a> <a href="index.php?x=browse&amp;tag=allone" class="tags10">allone&nbsp;(1)</a> <a href="index.php?x=browse&amp;tag=Beschilderung" class="tags10">Beschilderung&nbsp;(1)</a> <a href="index.php?x=browse&amp;tag=children" class="tags10">children&nbsp;(1)</a> <a href="index.php?x=browse&amp;tag=downtown" class="tags10">downtown&nbsp;(1)</a> <a href="index.php?x=browse&amp;tag=Fremde" class="tags10">Fremde&nbsp;(1)</a> <a href="index.php?x=browse&amp;tag=geborgenheit" class="tags10">geborgenheit&nbsp;(1)</a> <a href="index.php?x=browse&amp;tag=gehen" class="tags10">gehen&nbsp;(1)</a> <a href="index.php?x=browse&amp;tag=human" class="tags10">human&nbsp;(1)</a> <a href="index.php?x=browse&amp;tag=Innenstadt" class="tags10">Innenstadt&nbsp;(1)</a> <a href="index.php?x=browse&amp;tag=jpg" class="tags10">jpg&nbsp;(1)</a> <a href="index.php?x=browse&amp;tag=makro" class="tags10">makro&nbsp;(1)</a> <a href="index.php?x=browse&amp;tag=Natur" class="tags10">Natur&nbsp;(1)</a> <a href="index.php?x=browse&amp;tag=schatten" class="tags10">schatten&nbsp;(1)</a> <a href="index.php?x=browse&amp;tag=signs" class="tags10">signs&nbsp;(1)</a> <a href="index.php?x=browse&amp;tag=Sonnenuntergang" class="tags10">Sonnenuntergang&nbsp;(1)</a> <a href="index.php?x=browse&amp;tag=spazieren" class="tags10">spazieren&nbsp;(1)</a> <a href="index.php?x=browse&amp;tag=SW" class="tags10">SW&nbsp;(1)</a> <a href="index.php?x=browse&amp;tag=togehter" class="tags10">togehter&nbsp;(1)</a> <a href="index.php?x=browse&amp;tag=town" class="tags10">town&nbsp;(1)</a> <a href="index.php?x=browse&amp;tag=Wegweiser" class="tags10">Wegweiser&nbsp;(1)</a> <a href="index.php?x=browse&amp;tag=zusammen" class="tags10">zusammen&nbsp;(1)</a> </div>
+				</div>
+				<div class="devider"></div>
+			</div>
+
+			<div class="devider"></div>
+			<div id="footer">&copy; Marcel Sibilitz &bull; Feel free to <a href="http://www.mahomathome.de/photoblog/index.php?x=about">vote</a> for this photoblog. &bull; <a title="Photo Blog Theme" href="http://www.pixelfy.com/">Theme by Pixelfy</a></div>
+		</div>
+	</body>
+</html>

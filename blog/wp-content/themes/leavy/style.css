@@ -1,0 +1,506 @@
+/*
+Theme Name:  leavy
+Description: 2 coloumn bright design
+Author: Jinsona designs
+Author URI: http://web2feel.com/
+*/
+body {
+	margin:0;
+	padding-top:10px;
+	background:url(images/body2.png) ;
+	font-family:Century gothic, Arial,Tahoma,sans-serif;
+	color:#2C4049;
+	font-size:13px;
+	}
+img 
+{
+	padding:5px 5px 1px 5px;	
+	border:0;
+}
+
+/*img.rahmen
+{
+        border: 10px solid;
+        border:#CCC 10px solid;
+}
+img.right {
+	float: right;
+	margin:0 10px 10px 0;
+	border:20px;
+        color:#0000CC;
+}
+img.left {
+	float: left; 
+	margin:1px 0 0 1px;
+	border:10px;
+        color:#00CC00;
+}*/
+a {
+	color:#961801;
+	text-decoration:none
+	}
+a:hover {
+	color:#fb6700;
+	text-decoration:none
+		}
+h1, h2, h3, h4, h5, h6 {
+	
+	}
+blockquote {
+	padding-left:10px;
+	color:#555;
+	font-style: normal;
+	
+	}
+.clear {
+	clear:both;
+	}
+.alignleft {
+	float:left;
+	padding:2px 10px 10px 5px;
+	}
+.alignright {
+	float:right;
+	padding:2px 5px 0 5px;
+	}
+
+.adalignright {
+	float:right;
+	padding:2px 10px 10px 5px;
+	}
+
+/* The Wrapper */
+
+#wrapper {
+	width:1200px; /* 1000px hier steht die Seitenbreite, da fehlt aber noch der wert des einzelnen Artikels */
+	margin:0 auto;
+
+	}
+
+/* The Top */
+
+#top {
+	height:183px;
+	margin:auto;
+	background:#fff url(images/top.jpg);
+	background-repeat:no-repeat;
+	
+	}
+.blogname {
+	float:right;
+	width:1200px; /* 1000px */
+	font-family:Century gothic,Verdana,Tahoma,sans-serif;	
+	margin:0px 0 0 0;
+	}
+.blogname h1  {
+	font-size:40px;
+	font-weight:bold;
+	margin:80px 50px 0 20px;
+	color:#fff;
+	text-decoration: none;
+	text-align:left;
+	}
+.blogname h1  a:link, .blogname h1  a:visited{ 
+	color: #fff; 
+	text-decoration: none; 
+	background-color:transparent;
+	}
+	
+.blogname h1  a:hover { 
+	color: #f3ffc2; 
+	text-decoration: none; 
+	background-color:transparent;
+	}
+.blogname h2 {
+	margin:0px 80px 0 20px;
+	font-size:18px;
+	font-weight:normal;
+	color:#fff;
+	text-align:left;
+	}
+	
+
+.content {
+	padding:0px 5px 25px 5px;
+	background:#fff ;
+	background-repeat:repeat-x;
+
+	}	
+
+/* The Menu */
+
+#foxmenucontainer{
+	height:28px;
+	background:url(images/menu.jpg) repeat-x ;
+	display:block;
+	padding:5px 0 0px 0px;
+	}
+#foxmenu{
+	position:relative;
+	display:block;
+	height:33px;
+	font-size:12px;
+	font-weight:normal;
+	font-family:century gothic,Arial,Verdana,Helvitica,sans-serif;
+	}
+#foxmenu ul{
+	margin:0px;
+	padding:0px 0px 0 10px;
+	list-style-type:none;
+	width:auto;
+	float:left;
+
+	}
+#foxmenu ul li{
+	display:block;
+	float:left;
+	margin:0 2px 0 0;
+	
+	}
+#foxmenu ul li a{
+	display:block;
+	float:left;
+	color:#fff;
+	text-align: center;
+	text-decoration:none;
+	padding:5px 10px 0 10px;
+	height: 22px;
+	font-weight:bold;
+	}
+#foxmenu ul li a:hover,#foxmenu ul li.current_page_item a{
+	color:#404409;
+	background:#fff ;
+	height: 22px;
+	text-align: center;
+	}
+#foxmenu ul li .current_page_item a,#foxmenu ul li .current_page_item a:hover{
+	color:#404409;
+	height: 22px;
+
+	}
+
+#content {
+	float: left;
+	width: 980px; /* 780px Breite des Inhaltes?! */
+	margin: 0px 0px 0px 5px;
+	padding: 0 0;
+	}
+.date {
+	float:left;
+	width:60px;
+	height:53px;
+	text-align:center;
+	font-size:14px;
+	font-family:georgia,Verdana,Helvitica,sans-serif;
+	padding-top:5px;
+	font-weight:normal;
+    text-transform:uppercase;
+	color:#fff;
+	}
+.date .day {
+	color:#fff;
+	font-size:20px;
+	font-weight:bold;
+	padding-top:4px;
+	line-height:22px;
+	}
+.title{
+	margin: 0 0 0;
+	padding: 17px 0px 0px 5px;
+	height:58px;
+	background:url(images/title.jpg);
+}	
+.sub {
+	float:left;
+	height:14px;
+	font-size:14px;
+	font-family:Georgia,Verdana,Helvitica,sans-serif;
+	padding-left:0px;
+	padding-top:0px;
+	font-weight:normal;
+   	color:#83730a;
+	}
+	
+.post {
+	margin: 10px 10px 0 0px;
+	padding:0px 0px 0px 0px;
+	height: 100%;
+	text-align:left;
+	color:#555;
+	font: 13px Georgia,Tahoma,Arial, sans-serif;
+	}
+
+.post h2 {
+	margin: 0 0;
+	padding: 0px 0px 0px 0px;
+	background: transparent;
+	text-align: left;
+	font: 26px "Georgia",tahoma, Arial, sans-serif;
+	font-weight:normal;
+
+	}
+
+.post h2 a, .post h2 a:link, .post h2 a:visited  {
+	color: #404040;
+	background-color: transparent;
+	}
+.post h2 a:hover  {
+	color: #404040;
+	background-color: transparent;
+	}	
+	
+
+.postinfo {
+	height:41px;
+	padding: 0px 10px 2px 10px;
+	background:url(images/meta.jpg);
+	
+			}
+		
+.postinfo a {
+	
+	color:#e35416;
+
+	font-weight:normal;
+	text-decoration:none;
+	}
+.edit{
+	float:left;
+	padding:0px 0 0 10px;
+	color:#8d100d;
+	font-size:12px;
+	}	
+	
+.postinfo .com{
+	line-height:15px;
+	float:right;
+	padding:0px 5px 0 0px;
+	font-size:12px;
+	width:163px;
+	text-align:right;
+}
+
+.postinfo .com a:link,
+.postinfo .com a:visited {
+
+	color: #5B9A05;
+
+}
+.postinfo .com a:hover{
+	color: #666;
+}
+
+.post a:link,
+.post a:visited {
+	color: #d46205;
+	background-color: transparent;
+}
+
+.post a:hover {
+	color: #9d4b07;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+.entry {
+	margin: 0 0;
+	padding: 5px 20px 5px 25px;
+	}
+.cover{
+	margin: 0 0;
+	background:url(images/cover.jpg) repeat-y;
+	}
+.right{
+	width:182px;  /* 182px hiernoch was?*/
+	float:right;
+	padding-right:10px;
+		}	
+.rss{
+	padding:5px 10px 0 0;
+}
+	
+/* The Sidebar */
+.sidebar{
+	float:right;
+	width:182px;
+	padding-top:10px;
+	padding-right:5px;
+	font-size:14px;
+	font-family: "Georgia", Arial, sans-serif;
+	}
+
+.sidebar h2 {
+	height:35px;
+	line-height:35px;
+	font-size:20px;
+	color:#fff;
+	margin:5px 0 0 0 ;
+	padding:0px 0 0 5px;
+	background:#143748 url(images/h2.jpg);
+	background-repeat:repeat-x;
+	}
+.sidebar ul {
+	list-style-type: none;
+	margin: 0 ;
+	padding: 0;
+
+	}
+
+.sidebar ul ul  {
+	list-style-type: none;
+	margin: 0;
+	padding: 0px 5px 10px 5px;
+	background:#3F7C1F url(images/bottom.jpg) bottom;
+	background-repeat:no-repeat;
+
+	}
+
+.sidebar ul ul ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	border:0;
+
+	}
+
+
+
+.sidebar ul ul ul ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	border:0;
+
+	}
+	
+.sidebar ul li {
+	height:100%;
+		line-height:18px;
+	}
+
+.sidebar ul li a:link, .sidebar ul li a:visited {
+	color: #444;
+	text-decoration: none;
+	padding: 5px 0px 5px 5px;
+	display:block;
+	font: verdana, arial, helvetica, sans-serif;
+	background:#ffffff;
+	background-repeat:no-repeat;
+	border-bottom:1px solid #e0ffb6;
+	}
+
+.sidebar ul li a:hover {
+	background:#e0ffb6;
+	background-repeat:no-repeat;
+	color:#111;
+	}
+
+
+
+.sidebar p {
+	padding: 7px 10px;
+	margin:0;
+
+	}
+
+.sidebar table {
+	width:100%;
+	text-align:center;
+	background-color:transparent;
+	}	/* --- FOOTER --- */
+
+#footer {
+	height:30px;
+	padding:15px 0 0 0px;
+	background:url(images/footer.png) ;
+	color:#fff;
+	font-size:10px;
+	font-weight:normal;
+	text-align:center;
+	letter-spacing:1px;
+	}
+
+#footer a {
+	color:#f4c00b;
+	}
+
+#footer a:hover {
+	color:#83c51e;
+	}
+
+
+/* The Navigation */
+
+.navigation {
+	height:25px;
+	padding:0 20px;
+	}
+.navigation a {
+	font-weight:bold;
+	text-decoration:none;
+	font-size:14px;
+	color:#1459a7;
+	}
+.navigation a:hover {
+	color:#3f5d65;
+
+	}
+
+/* The Attachment */
+
+.contentCenter {
+	text-align:center;
+	}
+
+/* The Page Title */
+
+h2.pagetitle {
+	padding:0;
+	margin:0 0 20px 0;
+	font-size:25px;
+	text-align:center;
+	}
+
+/* The Comments */
+
+.comments {
+	}
+.comments form {
+	}
+.comments textarea {
+	width:90%;
+	height:156px;
+	background:#E0FFB6;
+	border:1px solid #C2EF86;
+	color:#7A8B92;
+	padding:10px;
+	overflow:auto;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	}
+#commentform {
+	padding-left:23px;
+	}
+#commentform input {
+	background:#E0FFB6;
+	border:1px solid #C2EF86;
+	color:#222;
+	padding-left:10px;
+	}
+.comments input#submit {
+	padding:0;
+	width:72px;
+	height:29px;
+	}
+.comments h2 {
+	font-size:19px;
+	line-height:30px;
+	margin:24px 0 0 23px;
+	padding:0;
+	font-weight:normal;
+	}
+.comments ol li p {
+	padding:0;
+	margin:10px 0;
+	color:#6C7F86;
+	}

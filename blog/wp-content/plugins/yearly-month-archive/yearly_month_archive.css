@@ -1,0 +1,51 @@
+.yearly_month_archive {
+  overflow: hidden;
+  width: 100%; /* ie6 fix */
+}
+
+.yearly_month_archive h2 {
+}
+
+.yearly_month_archive ul {
+}
+
+.yearly_month_archive li {
+  height: 1.5em;
+}
+
+.yearly_month_archive li:hover {
+  color: #e71;
+}
+
+.yearly_month_archive li.empty_month {
+  color: #666;
+}
+
+.yearly_month_archive p {
+}
+
+.yearly_month_archive table {
+}
+
+.yearly_month_archive td {
+}
+
+.yearly_month_archive .year {
+  float: left;
+}
+
+.yearly_month_archive .year_row {
+  clear: both;
+}
+
+.yearly_month_archive .graphic_stats {
+  clear: both;
+  border-bottom: 1px dotted #aaa;
+  height: 100px;
+  padding-top: 20px;
+  text-align: center;
+}
+
+.yearly_month_archive .graphic_stats img {
+  padding: 0 !important;
+}

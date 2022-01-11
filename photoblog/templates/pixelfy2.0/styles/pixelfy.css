@@ -1,0 +1,184 @@
+html, body{
+ height:100%;
+}
+
+body {
+ font-family:"trebuchet ms", verdana, sans-serif;
+ font-size:0.8em;
+ text-align:center;
+ background-color:#000000;
+ padding:0px;
+ margin:0px;
+ color:#777777;
+}
+
+img {
+ border:0px;
+}
+
+a {
+ color:#888888;
+ text-decoration:none;
+}
+
+#commentWrap textarea, #commentWrap input {
+ width:80%;
+}
+
+h1 {
+ font-family:georgia, "trebuchet ms", verdana, sans-serif;
+ font-size:140%;
+ margin:0em 1em 0em 1em;
+ padding:0.1em;
+ letter-spacing:3px;
+ font-weight:normal;
+}
+
+h2 {
+ font-size:120%;
+ margin:0em;
+ margin-top:0.3em;
+ padding:0em;
+ letter-spacing:3px;
+ font-family:georgia, "trebuchet ms", verdana, sans-serif;
+ font-weight:normal;
+ color:#333333;
+}
+
+.devider {
+ width:100%;
+ clear:both;
+ font-size:0em;
+}
+
+
+#container {
+ width:680px;
+ margin-left:auto;
+ margin-right:auto;
+ background-color:#151515;
+}
+
+#menu {
+ letter-spacing:2px;
+ font-size:90%;
+}
+#menu a.item {
+ float:right;
+ padding:40px 3px 30px 3px;
+}
+#menu a.item:hover {
+ background-color:#888888;
+ color:#222222;
+}
+
+#menu img#logo {
+ background-color:#151515;
+}
+
+#menu a#logo {
+ float:left;
+}
+
+#submenu {
+ float:right;
+ border:1px solid #222222;
+ background-color:#222222;
+ padding:0.2em 0.5em 0.2em 0.5em;
+}
+#submenu a {
+ 
+}
+#exif {
+ width:40%;
+ font-size:90%;
+ float:left;
+ margin-left:1em;
+}
+
+
+#commentWrap {
+ width:40%;
+ font-size:90%;
+ float:right;
+ margin-right:1em;
+ text-align:left;
+}
+
+#display {
+ text-align:left;
+ clear:both;
+ border:0px solid #151515;
+}
+
+#display p {
+ margin:1em;
+}
+
+img.thumbs {
+ float:left;
+ border:1px solid #333333;
+ padding:0.2em;
+ margin:0.3em 0.3em 0.3em 0.3em;
+}
+
+.thumbnails {
+ float:left;
+ border:1px solid #333333;
+ padding:0.4em;
+ margin:0em 0.3em 0.6em 0.3em; 
+}
+
+#footer {
+ background-color:#111111;
+ padding:0.5em;
+ text-align:right;
+}
+
+#footer, #footer a {
+ color:#555555; 
+ font-size:95%;
+}
+
+#imageWrap {
+ background-image:url(../images/load.gif);
+ background-repeat:no-repeat;
+ background-position:center center;
+}
+
+#image {
+
+}
+
+#thumbnailwrap {
+ width:480px;
+ float:left;
+}
+
+#details {
+ width:165px;
+ float:right;
+ background-color:#222222;
+ padding:1em;
+ margin:0px 0px 5px 5px;
+}
+
+#text {
+ float:left;
+}
+
+.mark {
+ background-color:#222222;
+ color:orange;
+}
+
+.tags10 {
+ font-size:90%;
+}
+
+
+/* Contact */
+.pfc_err {
+ border:1px solid red;
+ background-color:green;
+}

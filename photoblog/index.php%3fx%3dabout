@@ -1,0 +1,95 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<title>mahom@home  &bull; the photoblog</title>
+		<link rel="service.feed" type="application/x.atom+xml" title="mahom@home - the photoblog - ATOM Feed" href="http://www.mahomathome.de/photoblog/index.php?x=atom" />
+		<link rel="alternate" type="application/rss+xml" title="mahom@home - the photoblog - RSS Feed" href="http://www.mahomathome.de/photoblog/index.php?x=rss" />
+
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+		<meta http-equiv="content-type" name="keywords" content="mahom@home , the photoblog, Photography, PhotoBlog" />
+		<meta http-equiv="content-type" name="description" content="mahom@home  &bull; the photoblog" />
+
+		<link rel="stylesheet" type="text/css" href="http://www.mahomathome.de/photoblog/templates/pixelfy2.0/styles/pixelfy.css" />
+		<script type="text/javascript" src="http://www.mahomathome.de/photoblog/templates/pixelfy2.0/js/jquery.js"></script>
+		<script type="text/javascript" src="http://www.mahomathome.de/photoblog/templates/pixelfy2.0/js/pixelfy.js"></script>
+
+	</head>
+
+	<body>
+		<div id="container">
+			<div id="menu">
+				<a title="mahom@home  - the photoblog" id="logo" href="http://www.mahomathome.de/photoblog/"><img id="logo" src="http://www.mahomathome.de/photoblog/templates/pixelfy2.0/images/logo.gif" alt="mahom@home  - the photoblog" /></a>
+				<a class="item" href="http://www.mahomathome.de/photoblog/index.php?x=rss">rss</a>
+				<a class="item" href="http://www.mahomathome.de/photoblog/index.php?x=about">about</a>
+				<a class="item" href="http://twitter.com/mahomathome" target="_blank">twitter</a>
+				<a class="item" href="http://www.mahomathome.de/blog" target="_blank">blog</a>
+				<a class="item" href="./index.php?x=browse">browse</a>
+				<a class="item" href="./index.php?x=browse"><HELLO_WORLD></a>
+			</div>
+
+
+			<div id="display">
+			<div id="text">
+				<h3>For english version, please scroll down.</h3> 
+					<div id="details">
+					  <strong>einige Links</strong><br />
+					  <a href="http://www.mahomathome.de" target="_blank">homepage</a><br />
+						<a href="http://www.mahomathome.de/blog/" target="_blank">blog</a><br />
+            <a href="http://www.flickr.com/photos/mahom/" target="_blank">flickr</a><br />
+						<a href="http://twitter.com/mahomathome" target="_blank">twitter</a><br />
+						<a href="http://www.vimeo.com/mahomathome" target="_blank">vimeo</a><br />
+					</div>
+					<p>
+					Auf dieser Seite werden alles Bilder gezeigt, die von mir stammen. Inspiriert durch andere Fotografen und deren
+					Bilder, durch die Natur selbst, durch Menschen und durch meine eigene Fantasie versuche ich die Welt wie sie ist
+					und wie sie in meinen Augen sein k&ouml;nnte in meinen Bildern darzustellen. <br/>
+					<br/>
+					Weiter Informationen kannst du auf meinem <a href="http://www.mahomathome.de/blog/" target="_blank">Blog</a> &uuml;ber mich lesen. Dort steht auch mein bisheriger Werdegang.
+					<br/>
+					<br/>
+  					Du kannst gerne auf folgenden Seiten f&uuml;r diesen Fotoblog voten:
+          <br/>
+            <a href="http://www.coolphotoblogs.com/profile12661"><img src="http://www.coolphotoblogs.com/cool.gif" alt="coolphotoblogs" width="80" height="15" border="0"></a> </a> <a href="http://www.photoblog-community.com/LinkDetails.php?ID=5556" target="_blank"><img src="http://www.photoblog-community.com/Images/photo-links1.png" border="0" alt="photoblog-community" title="photoblog-community"></a>
+	  				<br/>
+	  				Oder du kannst dir hier einen Bookmark setzen: <a href="http://www.photoblogs.org/profile/mahomathome.de/photoblog" target="_blank">photoblogs</a>.
+					</div>	
+
+				<div id="text">
+					<div id="details">
+					  <strong>Some links to other sites</strong><br />
+					  <a href="http://www.mahomathome.de" target="_blank">homepage</a><br />
+						<a href="http://www.mahomathome.de/blog/" target="_blank">blog</a><br />
+            <a href="http://www.flickr.com/photos/mahom/" target="_blank">flickr</a><br />
+						<a href="http://twitter.com/mahomathome" target="_blank">twitter</a><br />
+						<a href="http://www.vimeo.com/mahomathome" target="_blank">vimeo</a><br />
+					</div>
+					<p>
+
+					On this Site all photos are made by myself. Inspired from other photographers and there photographs, from the 
+					nature itself, from human and my own phantasy I am trying to show the world how it is and how I see it trought my
+					eyes.<br/>
+					<br/>
+					More informations about me you can find on my <a href="http://www.mahomathome.de/blog/" target="_blank">blog</a>.
+					You can also see me background.
+					<br/>
+					<br/>
+  					Feel free to vote for this photoblog at the following contests:
+          <br/>
+          <a href="http://www.coolphotoblogs.com/profile12661"><img src="http://www.coolphotoblogs.com/cool.gif" alt="coolphotoblogs" width="80" height="15" border="0"></a> <a href="http://www.photoblog-community.com/LinkDetails.php?ID=5556" target="_blank"><img src="http://www.photoblog-community.com/Images/photo-links1.png" border="0" alt="photoblog-community" title="photoblog-community"></a>
+	  				<br/>
+            You can also bookmark my photoblog at <a href="http://www.photoblogs.org/profile/mahomathome.de/photoblog" target="_blank">photoblogs</a>.
+					</div>
+
+				<div class="devider"></div>
+
+			</div>
+
+			<div class="devider"></div>
+			<div id="footer">&copy; Marcel Sibilitz &bull; Feel free to <a href="http://www.mahomathome.de/photoblog/index.php?x=about">vote</a> for this photoblog. &bull; <a title="Photo Blog Theme" href="http://www.pixelfy.com/">Theme by Pixelfy</a></div>
+		</div>
+	</body>
+</html>
